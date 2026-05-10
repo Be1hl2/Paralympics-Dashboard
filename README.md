@@ -50,3 +50,4 @@ Power BI
 Power Query
 DAX
 Data Modeling
+<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/1d2f17c6-6af6-4aac-83e1-770fea37b904" />
